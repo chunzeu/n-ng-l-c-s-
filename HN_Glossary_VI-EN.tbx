@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<martif type="TBX-Basic" xml:lang="vi">
+  <martifHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Huong Ngan Glossary VI-EN</title>
+      </titleStmt>
+      <sourceDesc>
+        <p>Converted from Old_HN_Glossary_VI-EN.txt (tab-delimited: Vietnamese term, English term, note)</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p type="XCSURI">TBXBasicXCSV02.xcs</p>
+    </encodingDesc>
+  </martifHeader>
+  <text>
+    <body>
+      <termEntry id="hn-001">
+        <langSet xml:lang="vi">
+          <tig>
+            <term>Công ty TNHH Thảo Mộc Hương Ngàn</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>Huong Ngan Herbal Co., Ltd.</term>
+            <note xml:lang="vi">Gọi tắt: Huong Ngan, không dấu</note>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="hn-002">
+        <langSet xml:lang="vi">
+          <tig>
+            <term>trà thảo mộc</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>herbal tea</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="hn-003">
+        <langSet xml:lang="vi">
+          <tig>
+            <term>trà túi lọc</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>tea bags</term>
+            <note xml:lang="vi">Không dùng "filter bag tea"</note>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="hn-004">
+        <langSet xml:lang="vi">
+          <tig>
+            <term>tinh dầu tràm</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>cajeput essential oil</term>
+            <note xml:lang="vi">Không phải "tea tree oil"</note>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="hn-005">
+        <langSet xml:lang="vi">
+          <tig>
+            <term>chưng cất bằng hơi nước</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>steam-distilled</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="hn-006">
+        <langSet xml:lang="vi">
+          <tig>
+            <term>vùng nguyên liệu</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>sourcing area</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="hn-007">
+        <langSet xml:lang="vi">
+          <tig>
+            <term>hộ nông dân</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>farming households</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="hn-008">
+        <langSet xml:lang="vi">
+          <tig>
+            <term>lô hàng</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>batch</term>
+            <note xml:lang="vi">Dùng khi nói về sản xuất, kiểm nghiệm</note>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="hn-009">
+        <langSet xml:lang="vi">
+          <tig>
+            <term>lô hàng</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>shipment</term>
+            <note xml:lang="vi">Dùng khi nói về xuất khẩu</note>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="hn-010">
+        <langSet xml:lang="vi">
+          <tig>
+            <term>OCOP</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>OCOP (One Commune One Product)</term>
+            <note xml:lang="vi">Giải thích ở lần xuất hiện đầu tiên</note>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="hn-011">
+        <langSet xml:lang="vi">
+          <tig>
+            <term>nhà phân phối</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>distributor</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="hn-012">
+        <langSet xml:lang="vi">
+          <tig>
+            <term>đơn hàng tối thiểu</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>minimum order quantity (MOQ)</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="hn-013">
+        <langSet xml:lang="vi">
+          <tig>
+            <term>đặt cọc</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>deposit</term>
+          </tig>
+        </langSet>
+      </termEntry>
+    </body>
+  </text>
+</martif>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+  <header creationtool="Manual" creationtoolversion="1.0" segtype="sentence" o-tmf="tmx" adminlang="en-US" srclang="vi-VN" datatype="plaintext" creationdate="20240315T000000Z"/>
+  <body>
+    <tu tuid="1" creationdate="20240315T000000Z" creationid="HN-BROCHURE-2024">
+      <tuv xml:lang="vi-VN"><seg>Tất cả sản phẩm đều không chứa chất bảo quản và có nguồn gốc xuất xứ rõ ràng.</seg></tuv>
+      <tuv xml:lang="en-GB"><seg>All products are free from preservatives and fully traceable.</seg></tuv>
+    </tu>
+    <tu tuid="2" creationdate="20240315T000000Z" creationid="HN-BROCHURE-2024">
+      <tuv xml:lang="vi-VN"><seg>Mỗi lô hàng đều được kiểm nghiệm tại phòng thí nghiệm độc lập trước khi xuất xưởng.</seg></tuv>
+      <tuv xml:lang="en-GB"><seg>Every batch is tested by an independent laboratory before leaving the factory.</seg></tuv>
+    </tu>
+    <tu tuid="3" creationdate="20240315T000000Z" creationid="HN-BROCHURE-2024">
+      <tuv xml:lang="vi-VN"><seg>Vùng nguyên liệu của công ty rộng 30 ha, được canh tác theo hướng hữu cơ.</seg></tuv>
+      <tuv xml:lang="en-GB"><seg>The company's material area covers 30 ha and is farmed organically.</seg></tuv>
+    </tu>
+    <tu tuid="4" creationdate="20240315T000000Z" creationid="HN-BROCHURE-2024">
+      <tuv xml:lang="vi-VN"><seg>Bao bì sản phẩm được làm từ giấy tái chế.</seg></tuv>
+      <tuv xml:lang="en-GB"><seg>Our packaging is made from recycled paper.</seg></tuv>
+    </tu>
+  </body>
+</tmx>
